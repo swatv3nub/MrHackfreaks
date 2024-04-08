@@ -44,7 +44,7 @@ mtranslate
 aiohttp[speedups]
 nekos.py
 Intellivoid-SPB
-pymongo==3.11.0
+pymongo==4.6.3
 dnspython==2.0.0
 youtube-dl
 youtube_search
